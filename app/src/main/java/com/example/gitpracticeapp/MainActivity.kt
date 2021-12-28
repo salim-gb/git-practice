@@ -19,6 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         val d = 8
         val p = 100
-
+        val hh =88
     }
 }
