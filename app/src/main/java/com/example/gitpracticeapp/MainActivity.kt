@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         val y = 2
 
         val u = 0
+
+        val n = 3
     }
 }
