@@ -16,5 +16,9 @@ class MainActivity : AppCompatActivity() {
         val u = 0
 
         val n = 3
+
+        val d = 8
+        val p = 100
+
     }
 }
