@@ -11,5 +11,7 @@ class MainActivity : AppCompatActivity() {
         val b = 7
         val c = 9
         val y = 2
+
+        val u = 0
     }
 }
